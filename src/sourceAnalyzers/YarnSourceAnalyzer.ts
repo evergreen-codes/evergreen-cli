@@ -1,5 +1,5 @@
 import * as path from 'path';
-import * as depcheck from 'depcheck';
+import depcheck from 'depcheck';
 import { Ecosystem } from '../types';
 import SourceAnalyzer from './SourceAnalyzer';
 import { getWorkspacePaths } from '../utils/yarn';
