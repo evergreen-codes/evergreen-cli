@@ -11,19 +11,19 @@ A CLI tool for analyzing project dependency health.
 # Usage
 
 ```sh-session
-$ npx evergreen-codes:evergreen-cli
+$ npx github:evergreen-codes/evergreen-cli
 ...
 ```
 
 # Commands
 
-## `npx evergreen-codes:evergreen-cli help [COMMAND]`
+## `npx github:evergreen-codes/evergreen-cli help [COMMAND]`
 
 Display help for evergreen.
 
 ```
 USAGE
-  $ npx evergreen-codes:evergreen-cli help [COMMAND] [-n]
+  $ npx github:evergreen-codes/evergreen-cli help [COMMAND] [-n]
 
 ARGUMENTS
   COMMAND  Command to show help for.
@@ -35,25 +35,25 @@ DESCRIPTION
   Display help for evergreen.
 ```
 
-## `npx evergreen-codes:evergreen-cli report`
+## `npx github:evergreen-codes/evergreen-cli report`
 
 Generate an Evergreen dependency report.
 
 ```
 USAGE
-  $ npx evergreen-codes:evergreen-cli report
+  $ npx github:evergreen-codes/evergreen-cli report
 
 DESCRIPTION
   Generate an Evergreen dependency report.
 ```
 
-## `npx evergreen-codes:evergreen-cli report regenerate`
+## `npx github:evergreen-codes/evergreen-cli report regenerate`
 
 Regenrate an Evergreen report from previously fetched details and updated configuration.
 
 ```
 USAGE
-  $ npx evergreen-codes:evergreen-cli report regenerate
+  $ npx github:evergreen-codes/evergreen-cli report regenerate
 
 DESCRIPTION
   Regenrate an Evergreen report from previously fetched details and updated configuration.
