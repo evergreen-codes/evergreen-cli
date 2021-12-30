@@ -1,0 +1,31 @@
+{
+  "extends": [
+    "oclif",
+    "oclif-typescript",
+    "prettier"
+  ],
+  "plugins": ["prettier"],
+  "rules": {
+    "no-useless-constructor": 0,
+    "unicorn/filename-case": 0,
+    "unicorn/prefer-node-protocol": 0,
+    "unicorn/no-array-for-each": 0,
+    "unicorn/prefer-module": 0,
+    "unicorn/no-array-reduce": 0,
+    "unicorn/import-style": 0,
+    "no-negated-condition": 0,
+    "max-params": 0,
+    "camelcase": 0,
+    "prettier/prettier": [
+      "error",
+      {
+        "trailingComma": "es5",
+        "singleQuote": true,
+        "printWidth": 80,
+        "tabWidth": 2,
+        "endOfLine": "lf",
+        "arrowParens": "always"
+      }
+    ]
+  }
+}
