@@ -15,7 +15,7 @@
     "@snyk/cocoapods-lockfile-parser": "^3.6.2",
     "@yarnpkg/lockfile": "^1.1.0",
     "csv-writer": "^1.6.0",
-    "depcheck": "^1.4.2",
+    "depcheck": "^1.4.3",
     "glob": "^7.2.0",
     "isomorphic-unfetch": "^3.1.0",
     "node-fetch": "^2.6.6",
