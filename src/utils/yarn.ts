@@ -1,6 +1,6 @@
 // eslint-disable-next-line @typescript-eslint/ban-ts-comment
 // @ts-ignore
-import * as readJson from 'read-package-json';
+import readJson from 'read-package-json';
 import * as path from 'path';
 
 export function parsePackageJson(packagePath: string): Promise<any> {

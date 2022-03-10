@@ -1,7 +1,7 @@
 {
   "name": "evrgrn",
   "description": "Keep your dependencies up to date",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Jacob Friedmann",
   "bin": {
     "evergreen": "./bin/run"
