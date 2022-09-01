@@ -20,7 +20,7 @@
     "isomorphic-unfetch": "^3.1.0",
     "node-fetch": "^2.6.6",
     "node-html-parser": "^5.2.0",
-    "query-registry": "^2.2.0",
+    "query-registry": "^2.6.0",
     "read-package-json": "^4.1.1"
   },
   "devDependencies": {
