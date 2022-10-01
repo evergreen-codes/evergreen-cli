@@ -27,7 +27,7 @@
     "@oclif/test": "^2",
     "@types/chai": "^4",
     "@types/mocha": "^9.0.0",
-    "@types/node": "^16.9.4",
+    "@types/node": "^16.11.62",
     "@types/node-fetch": "^3.0.3",
     "@types/yarnpkg__lockfile": "^1.1.5",
     "chai": "^4",
