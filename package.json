@@ -10,7 +10,7 @@
   "dependencies": {
     "@oclif/core": "^1",
     "@oclif/plugin-help": "^5",
-    "@oclif/plugin-plugins": "^2.0.1",
+    "@oclif/plugin-plugins": "^2.3.0",
     "@octokit/graphql": "^4.8.0",
     "@snyk/cocoapods-lockfile-parser": "^3.6.2",
     "@yarnpkg/lockfile": "^1.1.0",
